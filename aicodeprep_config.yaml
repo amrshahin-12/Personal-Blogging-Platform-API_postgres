@@ -1,0 +1,9 @@
+code_extensions:
+  - .js
+exclude_dirs:
+  - node_modules
+  - venv
+  - .git
+max_file_size: 500000
+
+# to run it: aicodeprep
